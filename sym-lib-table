@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LocoShield-eagle-import)(type Legacy)(uri ${KIPRJMOD}/LocoShield-eagle-import.lib)(options "")(descr ""))
+)
